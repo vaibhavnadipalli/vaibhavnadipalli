@@ -1,4 +1,9 @@
-## Hi there, I'm Vaibhav Nadipalli 👋
+### Hi there, I'm Vaibhav Nadipalli 
+
+#### About Me
+- 💡 **Interests:** Startups, Robotics, Aerospace.
+- 📧 **Email:** vaibhavnadipalli3@gmail.com
+- 🌐 **Website:** [vaibhavnadipalli.github.io](https://vaibhavnadipalli.github.io) *(WIP)*
 
 <!--
 **vaibhavnadipalli/vaibhavnadipalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
